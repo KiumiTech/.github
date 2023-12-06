@@ -2,7 +2,7 @@
 
 🙋‍♀️ Kiumi is a team focus on Software development, DevOps, and Artificial Intelligence.
 
-
+For now and the foreseeable future, the team may well be a one-man band :).
 <!--
 
 **Here are some ideas to get you started:**
